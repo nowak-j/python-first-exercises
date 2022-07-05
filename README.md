@@ -1,1 +1,1 @@
-This repository contains chosen tasks from **Python** course covering thirteen topics, including around 200 tasks.
+This repository contains chosen tasks from the **Python** course, which covered thirteen topics, for a total of about 200 tasks.
